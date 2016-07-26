@@ -1,0 +1,590 @@
+[
+  {
+    "mya": "84",
+    "commonName": "Cheetah",
+    "scientificName": "Acinonyx_jubatus",
+    "order": "Carnivora",
+    "family": "Felidae"
+  },
+  {
+    "mya": "84",
+    "commonName": "Giant panda",
+    "scientificName": "Ailuropoda_melanoleuca",
+    "order": "Carnivora",
+    "family": "Ursidae"
+  },
+  {
+    "mya": "84",
+    "commonName": "Red panda",
+    "scientificName": "Ailurus_fulgens",
+    "order": "Carnivora",
+    "family": "Ailuridae"
+  },
+  {
+    "mya": "94",
+    "commonName": "Lucy",
+    "scientificName": "Australopithecus_afarensis_X",
+    "order": "Primates",
+    "family": "Hominidae"
+  },
+  {
+    "mya": "87",
+    "commonName": "Blue whale",
+    "scientificName": "Balaenoptera_musculus",
+    "order": "Cetartiodactyla",
+    "family": "Balaenopteridae"
+  },
+  {
+    "mya": "87",
+    "commonName": "Cow",
+    "scientificName": "Bos_taurus",
+    "order": "Cetartiodactyla",
+    "family": "Bovidae"
+  },
+  {
+    "mya": "87",
+    "commonName": "Camel: Arabian camel",
+    "scientificName": "Camelus_dromedarius",
+    "order": "Cetartiodactyla",
+    "family": "Camelidae"
+  },
+  {
+    "mya": "84",
+    "commonName": "Gray Wolf",
+    "scientificName": "Canis_lupus",
+    "order": "Carnivora",
+    "family": "Canidae"
+  },
+  {
+    "mya": "84",
+    "commonName": "Dog",
+    "scientificName": "Canis_lupus_familiaris",
+    "order": "Carnivora",
+    "family": "Canidae"
+  },
+  {
+    "mya": "88",
+    "commonName": "Bat: Egyptian fruit bat",
+    "scientificName": "Rousettus_egyptiacus",
+    "order": "Chiroptera",
+    "family": "Phyllostomidae"
+  },
+  {
+    "mya": "87",
+    "commonName": "Dolphin: Short-beaked common dolphin",
+    "scientificName": "Delphinus_delphis",
+    "order": "Cetartiodactyla",
+    "family": "Delphinidae"
+  },
+  {
+    "mya": "77",
+    "commonName": "Asian elephant",
+    "scientificName": "Elephas_maximus",
+    "order": "Proboscidea",
+    "family": "Elephantidae"
+  },
+  {
+    "mya": "84",
+    "commonName": "Sea otter",
+    "scientificName": "Enhydra_lutris",
+    "order": "Carnivora",
+    "family": "Mustelidae"
+  },
+  {
+    "mya": "87",
+    "commonName": "Horse",
+    "scientificName": "Equus_caballus",
+    "order": "Perissodactyla",
+    "family": "Equidae"
+  },
+  {
+    "mya": "84",
+    "commonName": "Bearded seal",
+    "scientificName": "Erignathus_barbatus",
+    "order": "Carnivora",
+    "family": "Phocidae"
+  },
+  {
+    "mya": "84",
+    "commonName": "Cat",
+    "scientificName": "Felis_silvestris",
+    "order": "Carnivora",
+    "family": "Felidae"
+  },
+  {
+    "mya": "87",
+    "commonName": "Giraffe",
+    "scientificName": "Giraffa_camelopardalis",
+    "order": "Cetartiodactyla",
+    "family": "Giraffidae"
+  },
+  {
+    "mya": "94",
+    "commonName": "Gorilla: Eastern gorilla ",
+    "scientificName": "Gorilla_gorilla",
+    "order": "Primates",
+    "family": "Hominidae"
+  },
+  {
+    "mya": "87",
+    "commonName": "Hippo",
+    "scientificName": "Hippopotamus_amphibius",
+    "order": "Cetartiodactyla",
+    "family": "Hippopotamidae"
+  },
+  {
+    "mya": "84",
+    "commonName": "Ribbon seal",
+    "scientificName": "Phoca_fasciata",
+    "order": "Carnivora",
+    "family": "Phocidae"
+  },
+  {
+    "mya": "94",
+    "commonName": "Neanderthal",
+    "scientificName": "Homo_neanderthalensis_X",
+    "order": "Primates",
+    "family": "Hominidae"
+  },
+  {
+    "mya": "94",
+    "commonName": "Human",
+    "scientificName": "Homo_sapiens",
+    "order": "Primates",
+    "family": "Hominidae"
+  },
+  {
+    "mya": "75",
+    "commonName": "Hyrax: Rock hyrax",
+    "scientificName": "Procavia_capensis",
+    "order": "Hiracoidea",
+    "family": "Procaviidae"
+  },
+  {
+    "mya": "91",
+    "commonName": "Arctic hare",
+    "scientificName": "Lepus_arcticus",
+    "order": "Lagomorpha",
+    "family": "Leporidae"
+  },
+  {
+    "mya": "77",
+    "commonName": "African elephant",
+    "scientificName": "Loxodonta_africana",
+    "order": "Proboscidea",
+    "family": "Elephantidae"
+  },
+  {
+    "mya": "82",
+    "commonName": "Great grey kangaroo",
+    "scientificName": "Macropus_fuliginosus",
+    "order": "Diprotodontia",
+    "family": "Macropodidae"
+  },
+  {
+    "mya": "93",
+    "commonName": " Short-eared elephant shrew",
+    "scientificName": "Macroscelides_proboscideus",
+    "order": "Macroscelidea",
+    "family": "Macroscelididae"
+  },
+  {
+    "mya": "77",
+    "commonName": " American mastodon",
+    "scientificName": "Mammut_americanum_X",
+    "order": "Proboscidea",
+    "family": "Mammutidae"
+  },
+  {
+    "mya": "77",
+    "commonName": "Columbian mammoth",
+    "scientificName": "Mammuthus_columbi_X",
+    "order": "Proboscidea",
+    "family": "Elephantidae"
+  },
+  {
+    "mya": "84",
+    "commonName": "Northern Elephant seal",
+    "scientificName": "Mirounga_angustirostris",
+    "order": "Carnivora",
+    "family": "Phocidae"
+  },
+  {
+    "mya": "87",
+    "commonName": "Narwhal",
+    "scientificName": "Monodon_monoceros",
+    "order": "Cetartiodactyla",
+    "family": "Monodontidae"
+  },
+  {
+    "mya": "84",
+    "commonName": "Walrus",
+    "scientificName": "Odobenus_rosmarus",
+    "order": "Carnivora",
+    "family": "Odobenidae"
+  },
+  {
+    "mya": "87",
+    "commonName": "Killer whale (orca)",
+    "scientificName": "Orcinus_orca",
+    "order": "Cetartiodactyla",
+    "family": "Delphinidae"
+  },
+  {
+    "mya": "166",
+    "commonName": "Platypus",
+    "scientificName": "Ornithorhynchus_anatinus",
+    "order": "Monotremata",
+    "family": "Ornithorhynchidae"
+  },
+  {
+    "mya": "93",
+    "commonName": "Aardvark",
+    "scientificName": "Orycteropus_afer",
+    "order": "Tubulidentata",
+    "family": "Orycteropteridae"
+  },
+  {
+    "mya": "84",
+    "commonName": "Steller Sea lion",
+    "scientificName": "Eumetopias_jubatus",
+    "order": "Carnivora",
+    "family": "Otariidae"
+  },
+  {
+    "mya": "94",
+    "commonName": "Chimp: Common chimpanzee",
+    "scientificName": "Pan_troglodytes",
+    "order": "Primates",
+    "family": "Hominidae"
+  },
+  {
+    "mya": "84",
+    "commonName": "Lion",
+    "scientificName": "Panthera_leo",
+    "order": "Carnivora",
+    "family": "Felidae"
+  },
+  {
+    "mya": "84",
+    "commonName": "Tiger",
+    "scientificName": "Panthera_tigris",
+    "order": "Carnivora",
+    "family": "Felidae"
+  },
+  {
+    "mya": "94",
+    "commonName": "Hamadryas baboon",
+    "scientificName": "Papio_hamadryas",
+    "order": "Primates",
+    "family": "Cercopithecidae"
+  },
+  {
+    "mya": "87",
+    "commonName": "Warthog: Common warthog",
+    "scientificName": "Phacochoerus_africanus",
+    "order": "Cetartiodactyla",
+    "family": "Suidae"
+  },
+  {
+    "mya": "147",
+    "commonName": "Koala",
+    "scientificName": "Phascolarctos_cinereus",
+    "order": "Diprotodontia",
+    "family": "Phascolarctidae"
+  },
+  {
+    "mya": "84",
+    "commonName": "Harbor seal",
+    "scientificName": "Phoca_vitulina",
+    "order": "Carnivora",
+    "family": "Phocidae"
+  },
+  {
+    "mya": "87",
+    "commonName": "Porpoise: Harbor porpoise",
+    "scientificName": "Phocoena_phocoena",
+    "order": "Cetartiodactyla",
+    "family": "Phocoenidae"
+  },
+  {
+    "mya": "84",
+    "commonName": "Pangolin: Chinese pangolin",
+    "scientificName": "Manis_pentadactyla",
+    "order": "Pholidota",
+    "family": "Manidae"
+  },
+  {
+    "mya": "94",
+    "commonName": "Bornean orangutan",
+    "scientificName": "Pongo_pygmaeus",
+    "order": "Primates",
+    "family": "Hominidae"
+  },
+  {
+    "mya": "84",
+    "commonName": "Racoon ",
+    "scientificName": "Procyon_lotor",
+    "order": "Carnivora",
+    "family": "Procyonidae"
+  },
+  {
+    "mya": "91",
+    "commonName": "Brown Rat",
+    "scientificName": "Rattus_norvegicus",
+    "order": "Rodentia",
+    "family": "Muridae"
+  },
+  {
+    "mya": "94",
+    "commonName": "Emperor tamarin",
+    "scientificName": "Saguinus_imperator",
+    "order": "Primates",
+    "family": "Callitrichidae"
+  },
+  {
+    "mya": "75",
+    "commonName": "West Indian manatee",
+    "scientificName": "Trichechus_manatus",
+    "order": "Sirenia",
+    "family": "Trichechidae"
+  },
+  {
+    "mya": "84",
+    "commonName": "Black bear",
+    "scientificName": "Ursus_americanus",
+    "order": "Carnivora",
+    "family": "Ursidae"
+  },
+  {
+    "mya": "84",
+    "commonName": "Brown bear",
+    "scientificName": "Ursus_arctos",
+    "order": "Carnivora",
+    "family": "Ursidae"
+  },
+  {
+    "mya": "84",
+    "commonName": "Grizzly bear",
+    "scientificName": "Ursus_arctos_horribilis",
+    "order": "Carnivora",
+    "family": "Ursidae"
+  },
+  {
+    "mya": "84",
+    "commonName": "Polar bear",
+    "scientificName": "Ursus_maritimus",
+    "order": "Carnivora",
+    "family": "Ursidae"
+  },
+  {
+    "mya": "101",
+    "commonName": "Giant anteater",
+    "scientificName": "Myrmecophaga_tridactyla",
+    "order": "Pilosa",
+    "family": "Myrmecophagidae"
+  },
+  {
+    "mya": "94",
+    "commonName": "Aye-Aye",
+    "scientificName": "Daubentonia_madagascariensis",
+    "order": "Primates",
+    "family": "Daubentoniidae"
+  },
+  {
+    "mya": "101",
+    "commonName": "Armadillo: Nine-banded armadillo",
+    "scientificName": "Dasypus_novemcinctus",
+    "order": "Cingulata",
+    "family": "Dasypodidae"
+  },
+  {
+    "mya": "94",
+    "commonName": "Bushbaby: Senegal bushbaby",
+    "scientificName": "Galago_senegalensis",
+    "order": "Primates",
+    "family": "Galagidae"
+  },
+  {
+    "mya": "101",
+    "commonName": "Giant ground sloth",
+    "scientificName": "Lestodon_armatus_X",
+    "order": "Pilosa",
+    "family": "Mylodontidae"
+  },
+  {
+    "mya": "87",
+    "commonName": "Llama: Domesticated llama",
+    "scientificName": "Lama_glama",
+    "order": "Cetartiodactyla",
+    "family": "Camelidae"
+  },
+  {
+    "mya": "94",
+    "commonName": "Loris: Sunda slow loris",
+    "scientificName": "Nycticebus_coucang",
+    "order": "Primates",
+    "family": "Lorisidae"
+  },
+  {
+    "mya": "94",
+    "commonName": "Spider monkey: Black-handed spider monkey",
+    "scientificName": "Ateles_geoffroyi",
+    "order": "Primates",
+    "family": "Atelidae"
+  },
+  {
+    "mya": "91",
+    "commonName": "Squirrel: Eastern gray squirrel",
+    "scientificName": "Sciurus_carolinensis",
+    "order": "Rodentia",
+    "family": "Sciuridae"
+  },
+  {
+    "mya": "-1",
+    "commonName": "Tasmanian tiger",
+    "scientificName": "Thylacinus_cynocephalus",
+    "order": "Dasyuromorphia",
+    "family": "Thylacinidae"
+  },
+  {
+    "mya": "101",
+    "commonName": "Sloth: Brown-throated sloth",
+    "scientificName": "Bradypus_variegatus",
+    "order": "Pilosa",
+    "family": "Bradypodidae"
+  },
+  {
+    "mya": "87",
+    "commonName": "Wild boar",
+    "scientificName": "Sus_scrofa",
+    "order": "Cetartiodactyla",
+    "family": "Suidae"
+  },
+  {
+    "mya": "87",
+    "commonName": "Bison: American bison",
+    "scientificName": "Bison_bison",
+    "order": "Cetartiodactyla",
+    "family": "Bovidae"
+  },
+  {
+    "mya": "87",
+    "commonName": "Black rhinoceros",
+    "scientificName": "Diceros_bicornis",
+    "order": "Perissodactyla",
+    "family": "Rhinocerotidae"
+  },
+  {
+    "mya": "94",
+    "commonName": "Brown howler",
+    "scientificName": "Alouatta_fusca",
+    "order": "Primates",
+    "family": "Atelidae"
+  },
+  {
+    "mya": "91",
+    "commonName": "Capybara",
+    "scientificName": "Hydrochaeris_hydrochaeris",
+    "order": "Rodentia",
+    "family": "Caviidae"
+  },
+  {
+    "mya": "84",
+    "commonName": "Cayote",
+    "scientificName": "Canis_latrans",
+    "order": "Carnivora",
+    "family": "Canidae"
+  },
+  {
+    "mya": "84",
+    "commonName": "Civet: African civet",
+    "scientificName": "Civettictis_civetta",
+    "order": "Carnivora",
+    "family": "Viverridae"
+  },
+  {
+    "mya": "82",
+    "commonName": "Common wombat",
+    "scientificName": "Vombatus_ursinus",
+    "order": "Diprotodontia",
+    "family": "Vombatidae"
+  },
+  {
+    "mya": "84",
+    "commonName": "Hyena: Spotted hyena",
+    "scientificName": "Crocuta_crocuta",
+    "order": "Carnivora",
+    "family": "Hyaenidae"
+  },
+  {
+    "mya": "84",
+    "commonName": "Jaguar",
+    "scientificName": "Panthera_onca",
+    "order": "Carnivora",
+    "family": "Felidae"
+  },
+  {
+    "mya": "91",
+    "commonName": "Mouse: House mouse",
+    "scientificName": "Mus_musculus",
+    "order": "Rodentia",
+    "family": "Muridae"
+  },
+  {
+    "mya": "82",
+    "commonName": "Oppossum: Virginia oppossum",
+    "scientificName": "Didelphis_virginiana",
+    "order": "Didelphimorphia",
+    "family": "Didelphidae"
+  },
+  {
+    "mya": "84",
+    "commonName": "Red fox",
+    "scientificName": "Vulpes_vulpes",
+    "order": "Carnivora",
+    "family": "Canidae"
+  },
+  {
+    "mya": "84",
+    "commonName": "Saber-tooth cat: Smilodon populator",
+    "scientificName": "Smilodon_fatalis_X",
+    "order": "Carnivora",
+    "family": "Felidae"
+  },
+  {
+    "mya": "87",
+    "commonName": "Water buffalo",
+    "scientificName": "Bubalus_bubalis",
+    "order": "Cetartiodactyla",
+    "family": "Bovidae"
+  },
+  {
+    "mya": "84",
+    "commonName": "Yellow mongoose",
+    "scientificName": "Cynictis_penicillata",
+    "order": "Carnivora",
+    "family": "Herpestidae"
+  },
+  {
+    "mya": "440",
+    "commonName": "Fish",
+    "scientificName": "Fish",
+    "order": "Fish",
+    "family": "Fish"
+  },
+  {
+    "mya": "320",
+    "commonName": "Birds",
+    "scientificName": "Birds",
+    "order": "Birds",
+    "family": "Birds"
+  },
+  {
+    "mya": "540",
+    "commonName": "Insects",
+    "scientificName": "Insects",
+    "order": "Insects",
+    "family": "Insects"
+  }
+]
