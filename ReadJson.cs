@@ -12,10 +12,12 @@ public class ReadJson : MonoBehaviour {
 	private JsonData itemData; // actually holds data
 	public Transform target;
 
+	public GameObject sprite1; 
+
 
 	// Use this for initialization
 	void Start () {
-		jsonString = File.ReadAllText (Application.dataPath + "/items.json"); //will get us to that assets folderå
+		jsonString = File.ReadAllText (Application.dataPath + "/mammals.json"); //will get us to that assets folderå
 
 		itemData = JsonMapper.ToObject (jsonString);
 		Debug.Log(itemData.Count);
@@ -23,16 +25,21 @@ public class ReadJson : MonoBehaviour {
 
 		LineRenderer lineRenderer = gameObject.AddComponent<LineRenderer>();
 		lineRenderer.material = new Material(Shader.Find("Particles/Additive"));
-		lineRenderer.SetColors(Color.red, Color.yellow);
+		lineRenderer.SetColors(Color.white, Color.white);
 		lineRenderer.SetWidth(0.2F, 0.2F);
 		lineRenderer.SetVertexCount(84);
+
+
+
 
 		for (int i = 0; i < itemData.Count - 1; i++) {
 			Debug.Log (itemData [i] ["mya"]);
 			string mya = (string)itemData [i] ["mya"];
 			int age = System.Convert.ToInt32 (mya);
 			Debug.Log (age);
-			Instantiate (sphere, new Vector3 (i * 1f, age * .06f, 0), Quaternion.identity);
+			//Instantiate (sphere, new Vector3 (i * 1f, age * .06f, 0), Quaternion.identity);
+			Instantiate(sprite1, new Vector3 (i * 1f, age * .06f, 0), Quaternion.identity);
+
 
 			//Draw Line
 			lineRenderer.SetPosition (i, new Vector3 (i * 1f, age * .06f, 0));
@@ -41,16 +48,10 @@ public class ReadJson : MonoBehaviour {
 		}
 
 	}
-		
-	void OnDrawGizmosSelected() {
-		if (target != null) {
-			Gizmos.color = Color.blue;
-			Gizmos.DrawLine(transform.position, target.position);
-		}
-	}
+
 
 	void OnGUI() {
-		jsonString = File.ReadAllText (Application.dataPath + "/items.json"); //will get us to that assets folderå
+		jsonString = File.ReadAllText (Application.dataPath + "/mammals.json"); //will get us to that assets folderå
 
 		itemData = JsonMapper.ToObject (jsonString);
 

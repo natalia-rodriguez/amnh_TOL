@@ -1,0 +1,975 @@
+{"name" : "Mammals",
+"children" : [
+  	{"name" : "Yinotheria",
+	"children" : [
+		{
+    "name": "Monotremata",
+    "children": [
+      {
+        "name": "Ornithorhynchidae",
+        "children": [
+          {
+            "name": "Platypus",
+            "scientificName": "Ornithorhynchus_anatinus",
+            "order": "Monotremata",
+            "family": "Ornithorhynchidae",
+            "mya": "166"
+          }
+        ]
+      }
+    ],
+    "age": "166"
+  }
+	],
+	"description" : "Yinotheria is a proposed subclass that contains a few fossil mammals of the Mesozoic and the extant monotremes. Monotremes are mammals that lay eggs.",
+	"age" : "200"
+	},
+
+
+
+	{"name" : "Metatheria",
+	"children" : [
+
+		{
+    "name": "Didelphimorphia",
+    "children": [
+      {
+        "name": "Didelphidae",
+        "children": [
+          {
+            "name": "Oppossum: Virginia oppossum",
+            "scientificName": "Didelphis_virginiana",
+            "order": "Didelphimorphia",
+            "family": "Didelphidae",
+            "mya": "82"
+          }
+        ]
+      }
+    ],
+    "age": "82"
+  },
+
+  {
+    "name": "Dasyuromorphia",
+    "children": [
+      {
+        "name": "Thylacinidae",
+        "children": [
+          {
+            "name": "Tasmanian tiger",
+            "scientificName": "Thylacinus_cynocephalus",
+            "order": "Dasyuromorphia",
+            "family": "Thylacinidae",
+            "mya": "82"
+          }
+        ]
+      }
+    ],
+    "age": "82"
+  },
+
+
+  {
+    "name": "Diprotodontia",
+    "children": [
+      {
+        "name": "Macropodidae",
+        "children": [
+          {
+            "name": "Great grey kangaroo",
+            "scientificName": "Macropus_fuliginosus",
+            "order": "Diprotodontia",
+            "family": "Macropodidae",
+            "mya": "82"
+          }
+        ]
+      },
+      {
+        "name": "Phascolarctidae",
+        "children": [
+          {
+            "name": "Koala",
+            "scientificName": "Phascolarctos_cinereus",
+            "order": "Diprotodontia",
+            "family": "Phascolarctidae",
+            "mya": "147"
+          }
+        ]
+      },
+      {
+        "name": "Vombatidae",
+        "children": [
+          {
+            "name": "Common wombat",
+            "scientificName": "Vombatus_ursinus",
+            "order": "Diprotodontia",
+            "family": "Vombatidae",
+            "mya": "82"
+          }
+        ]
+      }
+    ],
+    "age": "82"
+  }
+
+
+	],
+	"description" : "Metatheria is a slightly more inclusive group than the marsupials; it contains all of the living mammals with abdominal pouches (most female marsupials) as well as their more primitive ancestors and relatives.",
+	"age" : "147"
+	},
+
+
+
+	{"name" : "Eutheria",
+	"children" : [
+{
+    "name": "Carnivora",
+    "children": [
+      {
+        "name": "Felidae",
+        "children": [
+          {
+            "name": "Cheetah",
+            "scientificName": "Acinonyx_jubatus",
+            "order": "Carnivora",
+            "family": "Felidae",
+            "mya": "84"
+          },
+          {
+            "name": "Cat",
+            "scientificName": "Felis_silvestris",
+            "order": "Carnivora",
+            "family": "Felidae",
+            "mya": "84"
+          },
+          {
+            "name": "Lion",
+            "scientificName": "Panthera_leo",
+            "order": "Carnivora",
+            "family": "Felidae",
+            "mya": "84"
+          },
+          {
+            "name": "Tiger",
+            "scientificName": "Panthera_tigris",
+            "order": "Carnivora",
+            "family": "Felidae",
+            "mya": "84"
+          },
+          {
+            "name": "Jaguar",
+            "scientificName": "Panthera_onca",
+            "order": "Carnivora",
+            "family": "Felidae",
+            "mya": "84"
+          },
+          {
+            "name": "Saber-tooth cat: Smilodon populator",
+            "scientificName": "Smilodon_fatalis_X",
+            "order": "Carnivora",
+            "family": "Felidae",
+            "mya": "84"
+          }
+        ]
+      },
+      {
+        "name": "Ursidae",
+        "children": [
+          {
+            "name": "Giant panda",
+            "scientificName": "Ailuropoda_melanoleuca",
+            "order": "Carnivora",
+            "family": "Ursidae",
+            "mya": "84"
+          },
+          {
+            "name": "Black bear",
+            "scientificName": "Ursus_americanus",
+            "order": "Carnivora",
+            "family": "Ursidae",
+            "mya": "84"
+          },
+          {
+            "name": "Brown bear",
+            "scientificName": "Ursus_arctos",
+            "order": "Carnivora",
+            "family": "Ursidae",
+            "mya": "84"
+          },
+          {
+            "name": "Grizzly bear",
+            "scientificName": "Ursus_arctos_horribilis",
+            "order": "Carnivora",
+            "family": "Ursidae",
+            "mya": "84"
+          },
+          {
+            "name": "Polar bear",
+            "scientificName": "Ursus_maritimus",
+            "order": "Carnivora",
+            "family": "Ursidae",
+            "mya": "84"
+          }
+        ]
+      },
+      {
+        "name": "Ailuridae",
+        "children": [
+          {
+            "name": "Red panda",
+            "scientificName": "Ailurus_fulgens",
+            "order": "Carnivora",
+            "family": "Ailuridae",
+            "mya": "84"
+          }
+        ]
+      },
+      {
+        "name": "Canidae",
+        "children": [
+          {
+            "name": "Gray Wolf",
+            "scientificName": "Canis_lupus",
+            "order": "Carnivora",
+            "family": "Canidae",
+            "mya": "84"
+          },
+          {
+            "name": "Dog",
+            "scientificName": "Canis_lupus_familiaris",
+            "order": "Carnivora",
+            "family": "Canidae",
+            "mya": "84"
+          },
+          {
+            "name": "Cayote",
+            "scientificName": "Canis_latrans",
+            "order": "Carnivora",
+            "family": "Canidae",
+            "mya": "84"
+          },
+          {
+            "name": "Red fox",
+            "scientificName": "Vulpes_vulpes",
+            "order": "Carnivora",
+            "family": "Canidae",
+            "mya": "84"
+          }
+        ]
+      },
+      {
+        "name": "Mustelidae",
+        "children": [
+          {
+            "name": "Sea otter",
+            "scientificName": "Enhydra_lutris",
+            "order": "Carnivora",
+            "family": "Mustelidae",
+            "mya": "84"
+          }
+        ]
+      },
+      {
+        "name": "Phocidae",
+        "children": [
+          {
+            "name": "Bearded seal",
+            "scientificName": "Erignathus_barbatus",
+            "order": "Carnivora",
+            "family": "Phocidae",
+            "mya": "84"
+          },
+          {
+            "name": "Ribbon seal",
+            "scientificName": "Phoca_fasciata",
+            "order": "Carnivora",
+            "family": "Phocidae",
+            "mya": "84"
+          },
+          {
+            "name": "Northern Elephant seal",
+            "scientificName": "Mirounga_angustirostris",
+            "order": "Carnivora",
+            "family": "Phocidae",
+            "mya": "84"
+          },
+          {
+            "name": "Harbor seal",
+            "scientificName": "Phoca_vitulina",
+            "order": "Carnivora",
+            "family": "Phocidae",
+            "mya": "84"
+          }
+        ]
+      },
+      {
+        "name": "Odobenidae",
+        "children": [
+          {
+            "name": "Walrus",
+            "scientificName": "Odobenus_rosmarus",
+            "order": "Carnivora",
+            "family": "Odobenidae",
+            "mya": "84"
+          }
+        ]
+      },
+      {
+        "name": "Otariidae",
+        "children": [
+          {
+            "name": "Steller Sea lion",
+            "scientificName": "Eumetopias_jubatus",
+            "order": "Carnivora",
+            "family": "Otariidae",
+            "mya": "84"
+          }
+        ]
+      },
+      {
+        "name": "Procyonidae",
+        "children": [
+          {
+            "name": "Racoon ",
+            "scientificName": "Procyon_lotor",
+            "order": "Carnivora",
+            "family": "Procyonidae",
+            "mya": "84"
+          }
+        ]
+      },
+      {
+        "name": "Viverridae",
+        "children": [
+          {
+            "name": "Civet: African civet",
+            "scientificName": "Civettictis_civetta",
+            "order": "Carnivora",
+            "family": "Viverridae",
+            "mya": "84"
+          }
+        ]
+      },
+      {
+        "name": "Hyaenidae",
+        "children": [
+          {
+            "name": "Hyena: Spotted hyena",
+            "scientificName": "Crocuta_crocuta",
+            "order": "Carnivora",
+            "family": "Hyaenidae",
+            "mya": "84"
+          }
+        ]
+      },
+      {
+        "name": "Herpestidae",
+        "children": [
+          {
+            "name": "Yellow mongoose",
+            "scientificName": "Cynictis_penicillata",
+            "order": "Carnivora",
+            "family": "Herpestidae",
+            "mya": "84"
+          }
+        ]
+      }
+    ],
+    "age": "84"
+  },
+  {
+    "name": "Primates",
+    "children": [
+      {
+        "name": "Hominidae",
+        "children": [
+          {
+            "name": "Lucy",
+            "scientificName": "Australopithecus_afarensis_X",
+            "order": "Primates",
+            "family": "Hominidae",
+            "mya": "94"
+          },
+          {
+            "name": "Gorilla: Eastern gorilla ",
+            "scientificName": "Gorilla_gorilla",
+            "order": "Primates",
+            "family": "Hominidae",
+            "mya": "94"
+          },
+          {
+            "name": "Neanderthal",
+            "scientificName": "Homo_neanderthalensis_X",
+            "order": "Primates",
+            "family": "Hominidae",
+            "mya": "94"
+          },
+          {
+            "name": "Human",
+            "scientificName": "Homo_sapiens",
+            "order": "Primates",
+            "family": "Hominidae",
+            "mya": "94"
+          },
+          {
+            "name": "Chimp: Common chimpanzee",
+            "scientificName": "Pan_troglodytes",
+            "order": "Primates",
+            "family": "Hominidae",
+            "mya": "94"
+          },
+          {
+            "name": "Bornean orangutan",
+            "scientificName": "Pongo_pygmaeus",
+            "order": "Primates",
+            "family": "Hominidae",
+            "mya": "94"
+          }
+        ]
+      },
+      {
+        "name": "Cercopithecidae",
+        "children": [
+          {
+            "name": "Hamadryas baboon",
+            "scientificName": "Papio_hamadryas",
+            "order": "Primates",
+            "family": "Cercopithecidae",
+            "mya": "94"
+          }
+        ]
+      },
+      {
+        "name": "Callitrichidae",
+        "children": [
+          {
+            "name": "Emperor tamarin",
+            "scientificName": "Saguinus_imperator",
+            "order": "Primates",
+            "family": "Callitrichidae",
+            "mya": "94"
+          }
+        ]
+      },
+      {
+        "name": "Daubentoniidae",
+        "children": [
+          {
+            "name": "Aye-Aye",
+            "scientificName": "Daubentonia_madagascariensis",
+            "order": "Primates",
+            "family": "Daubentoniidae",
+            "mya": "94"
+          }
+        ]
+      },
+      {
+        "name": "Galagidae",
+        "children": [
+          {
+            "name": "Bushbaby: Senegal bushbaby",
+            "scientificName": "Galago_senegalensis",
+            "order": "Primates",
+            "family": "Galagidae",
+            "mya": "94"
+          }
+        ]
+      },
+      {
+        "name": "Lorisidae",
+        "children": [
+          {
+            "name": "Loris: Sunda slow loris",
+            "scientificName": "Nycticebus_coucang",
+            "order": "Primates",
+            "family": "Lorisidae",
+            "mya": "94"
+          }
+        ]
+      },
+      {
+        "name": "Atelidae",
+        "children": [
+          {
+            "name": "Spider monkey: Black-handed spider monkey",
+            "scientificName": "Ateles_geoffroyi",
+            "order": "Primates",
+            "family": "Atelidae",
+            "mya": "94"
+          },
+          {
+            "name": "Brown howler",
+            "scientificName": "Alouatta_fusca",
+            "order": "Primates",
+            "family": "Atelidae",
+            "mya": "94"
+          }
+        ]
+      }
+    ],
+    "age": "94"
+  },
+  {
+    "name": "Cetartiodactyla",
+    "children": [
+      {
+        "name": "Balaenopteridae",
+        "children": [
+          {
+            "name": "Blue whale",
+            "scientificName": "Balaenoptera_musculus",
+            "order": "Cetartiodactyla",
+            "family": "Balaenopteridae",
+            "mya": "87"
+          }
+        ]
+      },
+      {
+        "name": "Bovidae",
+        "children": [
+          {
+            "name": "Cow",
+            "scientificName": "Bos_taurus",
+            "order": "Cetartiodactyla",
+            "family": "Bovidae",
+            "mya": "87"
+          },
+          {
+            "name": "Bison: American bison",
+            "scientificName": "Bison_bison",
+            "order": "Cetartiodactyla",
+            "family": "Bovidae",
+            "mya": "87"
+          },
+          {
+            "name": "Water buffalo",
+            "scientificName": "Bubalus_bubalis",
+            "order": "Cetartiodactyla",
+            "family": "Bovidae",
+            "mya": "87"
+          }
+        ]
+      },
+      {
+        "name": "Camelidae",
+        "children": [
+          {
+            "name": "Camel: Arabian camel",
+            "scientificName": "Camelus_dromedarius",
+            "order": "Cetartiodactyla",
+            "family": "Camelidae",
+            "mya": "87"
+          },
+          {
+            "name": "Llama: Domesticated llama",
+            "scientificName": "Lama_glama",
+            "order": "Cetartiodactyla",
+            "family": "Camelidae",
+            "mya": "87"
+          }
+        ]
+      },
+      {
+        "name": "Delphinidae",
+        "children": [
+          {
+            "name": "Dolphin: Short-beaked common dolphin",
+            "scientificName": "Delphinus_delphis",
+            "order": "Cetartiodactyla",
+            "family": "Delphinidae",
+            "mya": "87"
+          },
+          {
+            "name": "Killer whale (orca)",
+            "scientificName": "Orcinus_orca",
+            "order": "Cetartiodactyla",
+            "family": "Delphinidae",
+            "mya": "87"
+          }
+        ]
+      },
+      {
+        "name": "Giraffidae",
+        "children": [
+          {
+            "name": "Giraffe",
+            "scientificName": "Giraffa_camelopardalis",
+            "order": "Cetartiodactyla",
+            "family": "Giraffidae",
+            "mya": "87"
+          }
+        ]
+      },
+      {
+        "name": "Hippopotamidae",
+        "children": [
+          {
+            "name": "Hippo",
+            "scientificName": "Hippopotamus_amphibius",
+            "order": "Cetartiodactyla",
+            "family": "Hippopotamidae",
+            "mya": "87"
+          }
+        ]
+      },
+      {
+        "name": "Monodontidae",
+        "children": [
+          {
+            "name": "Narwhal",
+            "scientificName": "Monodon_monoceros",
+            "order": "Cetartiodactyla",
+            "family": "Monodontidae",
+            "mya": "87"
+          }
+        ]
+      },
+      {
+        "name": "Suidae",
+        "children": [
+          {
+            "name": "Warthog: Common warthog",
+            "scientificName": "Phacochoerus_africanus",
+            "order": "Cetartiodactyla",
+            "family": "Suidae",
+            "mya": "87"
+          },
+          {
+            "name": "Wild boar",
+            "scientificName": "Sus_scrofa",
+            "order": "Cetartiodactyla",
+            "family": "Suidae",
+            "mya": "87"
+          }
+        ]
+      },
+      {
+        "name": "Phocoenidae",
+        "children": [
+          {
+            "name": "Porpoise: Harbor porpoise",
+            "scientificName": "Phocoena_phocoena",
+            "order": "Cetartiodactyla",
+            "family": "Phocoenidae",
+            "mya": "87"
+          }
+        ]
+      }
+    ],
+    "age": "87"
+  },
+  {
+    "name": "Chiroptera",
+    "children": [
+      {
+        "name": "Phyllostomidae",
+        "children": [
+          {
+            "name": "Bat: Egyptian fruit bat",
+            "scientificName": "Rousettus_egyptiacus",
+            "order": "Chiroptera",
+            "family": "Phyllostomidae",
+            "mya": "88"
+          }
+        ]
+      }
+    ],
+    "age": "88"
+  },
+  {
+    "name": "Proboscidea",
+    "children": [
+      {
+        "name": "Elephantidae",
+        "children": [
+          {
+            "name": "Asian elephant",
+            "scientificName": "Elephas_maximus",
+            "order": "Proboscidea",
+            "family": "Elephantidae",
+            "mya": "77"
+          },
+          {
+            "name": "African elephant",
+            "scientificName": "Loxodonta_africana",
+            "order": "Proboscidea",
+            "family": "Elephantidae",
+            "mya": "77"
+          },
+          {
+            "name": "Columbian mammoth",
+            "scientificName": "Mammuthus_columbi_X",
+            "order": "Proboscidea",
+            "family": "Elephantidae",
+            "mya": "77"
+          }
+        ]
+      },
+      {
+        "name": "Mammutidae",
+        "children": [
+          {
+            "name": " American mastodon",
+            "scientificName": "Mammut_americanum_X",
+            "order": "Proboscidea",
+            "family": "Mammutidae",
+            "mya": "77"
+          }
+        ]
+      }
+    ],
+    "age": "77"
+  },
+  {
+    "name": "Perissodactyla",
+    "children": [
+      {
+        "name": "Equidae",
+        "children": [
+          {
+            "name": "Horse",
+            "scientificName": "Equus_caballus",
+            "order": "Perissodactyla",
+            "family": "Equidae",
+            "mya": "87"
+          }
+        ]
+      },
+      {
+        "name": "Rhinocerotidae",
+        "children": [
+          {
+            "name": "Black rhinoceros",
+            "scientificName": "Diceros_bicornis",
+            "order": "Perissodactyla",
+            "family": "Rhinocerotidae",
+            "mya": "87"
+          }
+        ]
+      }
+    ],
+    "age": "87"
+  },
+  {
+    "name": "Hiracoidea",
+    "children": [
+      {
+        "name": "Procaviidae",
+        "children": [
+          {
+            "name": "Hyrax: Rock hyrax",
+            "scientificName": "Procavia_capensis",
+            "order": "Hiracoidea",
+            "family": "Procaviidae",
+            "mya": "75"
+          }
+        ]
+      }
+    ],
+    "age": "75"
+  },
+  {
+    "name": "Lagomorpha",
+    "children": [
+      {
+        "name": "Leporidae",
+        "children": [
+          {
+            "name": "Arctic hare",
+            "scientificName": "Lepus_arcticus",
+            "order": "Lagomorpha",
+            "family": "Leporidae",
+            "mya": "91"
+          }
+        ]
+      }
+    ],
+    "age": "91"
+  },
+  {
+    "name": "Macroscelidea",
+    "children": [
+      {
+        "name": "Macroscelididae",
+        "children": [
+          {
+            "name": " Short-eared elephant shrew",
+            "scientificName": "Macroscelides_proboscideus",
+            "order": "Macroscelidea",
+            "family": "Macroscelididae",
+            "mya": "93"
+          }
+        ]
+      }
+    ],
+    "age": "93"
+  },
+  {
+    "name": "Tubulidentata",
+    "children": [
+      {
+        "name": "Orycteropteridae",
+        "children": [
+          {
+            "name": "Aardvark",
+            "scientificName": "Orycteropus_afer",
+            "order": "Tubulidentata",
+            "family": "Orycteropteridae",
+            "mya": "93"
+          }
+        ]
+      }
+    ],
+    "age": "93"
+  },
+  {
+    "name": "Pholidota",
+    "children": [
+      {
+        "name": "Manidae",
+        "children": [
+          {
+            "name": "Pangolin: Chinese pangolin",
+            "scientificName": "Manis_pentadactyla",
+            "order": "Pholidota",
+            "family": "Manidae",
+            "mya": "84"
+          }
+        ]
+      }
+    ],
+    "age": "84"
+  },
+  {
+    "name": "Rodentia",
+    "children": [
+      {
+        "name": "Muridae",
+        "children": [
+          {
+            "name": "Brown Rat",
+            "scientificName": "Rattus_norvegicus",
+            "order": "Rodentia",
+            "family": "Muridae",
+            "mya": "91"
+          },
+          {
+            "name": "Mouse: House mouse",
+            "scientificName": "Mus_musculus",
+            "order": "Rodentia",
+            "family": "Muridae",
+            "mya": "91"
+          }
+        ]
+      },
+      {
+        "name": "Sciuridae",
+        "children": [
+          {
+            "name": "Squirrel: Eastern gray squirrel",
+            "scientificName": "Sciurus_carolinensis",
+            "order": "Rodentia",
+            "family": "Sciuridae",
+            "mya": "91"
+          }
+        ]
+      },
+      {
+        "name": "Caviidae",
+        "children": [
+          {
+            "name": "Capybara",
+            "scientificName": "Hydrochaeris_hydrochaeris",
+            "order": "Rodentia",
+            "family": "Caviidae",
+            "mya": "91"
+          }
+        ]
+      }
+    ],
+    "age": "91"
+  },
+  {
+    "name": "Sirenia",
+    "children": [
+      {
+        "name": "Trichechidae",
+        "children": [
+          {
+            "name": "West Indian manatee",
+            "scientificName": "Trichechus_manatus",
+            "order": "Sirenia",
+            "family": "Trichechidae",
+            "mya": "75"
+          }
+        ]
+      }
+    ],
+    "age": "75"
+  },
+  {
+    "name": "Pilosa",
+    "children": [
+      {
+        "name": "Myrmecophagidae",
+        "children": [
+          {
+            "name": "Giant anteater",
+            "scientificName": "Myrmecophaga_tridactyla",
+            "order": "Pilosa",
+            "family": "Myrmecophagidae",
+            "mya": "101"
+          }
+        ]
+      },
+      {
+        "name": "Mylodontidae",
+        "children": [
+          {
+            "name": "Giant ground sloth",
+            "scientificName": "Lestodon_armatus_X",
+            "order": "Pilosa",
+            "family": "Mylodontidae",
+            "mya": "101"
+          }
+        ]
+      },
+      {
+        "name": "Bradypodidae",
+        "children": [
+          {
+            "name": "Sloth: Brown-throated sloth",
+            "scientificName": "Bradypus_variegatus",
+            "order": "Pilosa",
+            "family": "Bradypodidae",
+            "mya": "101"
+          }
+        ]
+      }
+    ],
+    "age": "101"
+  },
+  {
+    "name": "Cingulata",
+    "children": [
+      {
+        "name": "Dasypodidae",
+        "children": [
+          {
+            "name": "Armadillo: Nine-banded armadillo",
+            "scientificName": "Dasypus_novemcinctus",
+            "order": "Cingulata",
+            "family": "Dasypodidae",
+            "mya": "101"
+          }
+        ]
+      }
+    ],
+    "age": "101"
+  }
+	],
+	"description" : "Eutherians are members of Placentalia. They are distinguished from noneutherians by various phenotypic traits of the feet, ankles, jaws and teeth.",
+	"age" : "147"
+	}
+]
+}	
